@@ -1,3 +1,5 @@
+// The weather is nice today
+
 void setup() {
   // put your setup code here, to run once:
 
